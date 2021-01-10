@@ -17,3 +17,9 @@
 有点意思，下面这张gif可以形容我的心情：
 
 ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
+
+git add :
+git add -A
+git commit:
+git commit -m "1"
+git push origin main
